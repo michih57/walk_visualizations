@@ -1,0 +1,8 @@
+* graphical data (polygon, wedges, deadlocks...)
+{:type type
+ :data data
+ :visible true/false}
+
+associate each data object with a graphics object
+
+implement multi method to draw each type?
